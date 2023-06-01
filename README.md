@@ -1,5 +1,5 @@
 # Parallax Website
-This is a simple Parallax website created with HTML and CSS. The website consists of four sections, each with a different background image and content.
+This is a simple Parallax website created with HTML and CSS. The site consists of four sections, each with a different background image and content. The website was created when I started my study in HTML and CSS in 2020.
 
 ## Getting Started
 To view the website locally, follow these steps:
